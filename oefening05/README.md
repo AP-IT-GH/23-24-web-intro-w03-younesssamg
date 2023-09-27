@@ -6,6 +6,7 @@
 
  - [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
  - [ ] Open het bestand.
+ - [ ] Voeg de [bootstrap meta-informatie](/README.md) toe aan je `head` element om bootstrap te kunnen gebruiken.
 
 ### Voorbeeld Namaken
 
