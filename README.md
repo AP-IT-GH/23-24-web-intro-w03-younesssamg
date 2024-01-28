@@ -3,26 +3,37 @@
 ## 🥅 Overzicht en Leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - HTML code schrijven
- - meta-informatie voor bootstrap toevoegen
- - bootstrap gebruiken
- - semantische tabellen samenstellen
+
+- HTML code schrijven
+- meta-informatie voor bootstrap toevoegen
+- bootstrap gebruiken
+- semantische tabellen samenstellen
 
 ## 🔍 Week 1: HTML Intro
 
-In deze repository vind je 6 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` *in die map*.
+In deze repository vind je 6 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
 Om bootstrap te gebruiken (oefening 2-6) heb je volgende meta-informatie nodig. (plaats deze elementen in je `head`-element):
 
 ```html
-    <!-- Required meta tags -->
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <!-- JavaScript: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous" defer></script>
+<!-- Required meta tags -->
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Bootstrap CSS -->
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+  crossorigin="anonymous"
+/>
+<!-- JavaScript: Bootstrap Bundle with Popper -->
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+  crossorigin="anonymous"
+  defer
+></script>
 ```
 
 Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
@@ -35,7 +46,7 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
 | commentaar           | Een stuk tekst in de code dat genegeerd wordt door de computer. Dit kan gebruikt worden om extra uitleg bij code te geven.                 |
 | browser              | Het programma waarmee je een website kunt bezoeken.                                                                                        |
-| *.html               | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
+| \*.html              | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
 | index.html           | De standaard startpagina van een website. Als je geen pagina meegeeft aan het adres van de website, wordt deze pagina automatisch geladen. |
 | tag                  | Een kleiner dan (`<`) en groter dan (`>`) teken waartussen een codewoord staat.                                                            |
 | tagnaam              | Een codewoord dat inhoud aanduidt voor een bepaald doel.                                                                                   |
