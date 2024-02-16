@@ -1,24 +1,23 @@
-# 💻 LES: Week 3: Bootstrap & Semantische Tabellen
+# 💻 03. Bootstrap inleiding & semantische tabellen
 
-## 🥅 Overzicht en Leerdoelen
+## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
 
-- HTML code schrijven
-- meta-informatie voor bootstrap toevoegen
-- bootstrap gebruiken
+- HTML-code schrijven
+- meta-informatie voor Bootstrap toevoegen
+- Bootstrap gebruiken
 - semantische tabellen samenstellen
 
-## 🔍 Week 1: HTML Intro
+## 🔍 week 03: Bootstrap inleiding & semantische tabellen
 
-In deze repository vind je 6 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
+In deze repository vind je 6 oefeningen terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
-Om bootstrap te gebruiken (oefening 2-6) heb je volgende meta-informatie nodig. (plaats deze elementen in je `head`-element):
+Om Bootstrap te gebruiken (vanaf oefening 2) heb je volgende meta-informatie nodig. (plaats deze elementen in je `head`-element):
 
 ```html
 <!-- Required meta tags -->
 <meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!-- Bootstrap CSS -->
 <link
@@ -36,11 +35,11 @@ Om bootstrap te gebruiken (oefening 2-6) heb je volgende meta-informatie nodig. 
 ></script>
 ```
 
-Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap. Nadien corrigeer je zelf jouw labo op basis van de correctiesleutel op Digitap, om zo te leren uit jouw fouten.
 
-## 💡 Belangrijke Termen
+## 💡 belangrijke termen
 
-| Term                 | Definitie                                                                                                                                  |
+| term                 | definitie                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | HTML                 | Een taal die gebruikt wordt om de structuur van een website te bepalen.                                                                    |
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
@@ -70,12 +69,13 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | attribute            | Een deel van de openingstag dat meer informatie geeft over het element.                                                                    |
 | attribute-key        | De naam van het attribute. Dit staat aan de linkerkant van het = teken.                                                                    |
 | attribute-value      | De waarde van het attribute. Dit staat aan de rechterkant van het = teken.                                                                 |
-| src attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
-| alt attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
-| href attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
+| src-attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
+| alt-attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
+| href-attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
 
-## 📚 Bronnen
+## 📚 bronnen
 
 - [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
+- [Bootstrap](https://getbootstrap.com)
 - [w3schools](https://www.w3schools.com)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)

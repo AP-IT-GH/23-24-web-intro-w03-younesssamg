@@ -1,14 +1,14 @@
-# 💻 LES: W3 - HTML & Bootstrap - Oefening 03
+# 💻 03. HTML & Bootstrap > oefening 03
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
 ### `index.html` maken
 
- - [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
- - [ ] Open het bestand.
- - [ ] Voeg de [bootstrap meta-informatie](/README.md) toe aan je `head` element om bootstrap te kunnen gebruiken.
+- [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
+- [ ] Open het bestand.
+- [ ] Voeg de [Bootstrap meta-informatie](/README.md) toe aan je `head`-element om Bootstrap te kunnen gebruiken.
 
-### Voorbeeld Namaken
+### voorbeeld namaken
 
 - [ ] Maak een [semantische tabel](https://apwt.gitbook.io/g_webtechnologie/html/html-tabellen). Maak gebruik van de elementen `thead` (met `scope="col"` voor de `th`), `tbody` (met `scope="row"` voor de `th`) en `tfoot`
 - [ ] Voeg de klasse `table` toe aan het `table` element.
