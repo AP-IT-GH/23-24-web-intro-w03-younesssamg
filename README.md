@@ -75,7 +75,8 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar 
 
 ## 📚 bronnen
 
-- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
-- [Bootstrap](https://getbootstrap.com)
+- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/)
 - [w3schools](https://www.w3schools.com)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Bootstrap](https://getbootstrap.com)
+- [Bootstrap documentatie](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
